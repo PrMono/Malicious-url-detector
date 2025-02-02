@@ -55,5 +55,5 @@ Rechargez l’extension (chrome://extensions/ → Mettre à jour)
 Vérifiez la console (F12 > Console) pour voir d’éventuelles erreurs
 
 📖 Autres ressources
-📌 Utilisation de l’API VirusTotal
-📌 [Guide pour les contributeurs](
+📌 [Utilisation de l’API VirusTotal](doc/API_USAGE.md)
+📌 [Guide pour les contributeurs](doc/DEV_GUIDE.md)
