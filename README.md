@@ -3,7 +3,7 @@
 🚀 Une **extension Chrome** permettant de détecter **les URL malveillantes en temps réel** grâce à **l'API VirusTotal**.
 
 ![Demo](assets/demo.gif)  
-*(Ajoute un vrai GIF de démonstration ici si possible.)*  
+
 
 ---
 
