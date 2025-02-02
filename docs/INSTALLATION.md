@@ -54,6 +54,9 @@ Assurez-vous que l’API Key est bien renseignée dans background.js
 Rechargez l’extension (chrome://extensions/ → Mettre à jour)
 Vérifiez la console (F12 > Console) pour voir d’éventuelles erreurs
 
+📖 [Guide complet d'installation](docs/INSTALLATION.md)
+
+
 📖 Autres ressources
 📌 Utilisation de l’API VirusTotal
 📌 [Guide pour les contributeurs](
